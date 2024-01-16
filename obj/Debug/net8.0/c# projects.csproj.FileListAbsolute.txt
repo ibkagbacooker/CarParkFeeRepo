@@ -12,3 +12,4 @@ C:\Users\USER\Desktop\c# projects\obj\Debug\net8.0\refint\c# projects.dll
 C:\Users\USER\Desktop\c# projects\obj\Debug\net8.0\c# projects.pdb
 C:\Users\USER\Desktop\c# projects\obj\Debug\net8.0\c# projects.genruntimeconfig.cache
 C:\Users\USER\Desktop\c# projects\obj\Debug\net8.0\ref\c# projects.dll
+C:\Users\USER\Desktop\c# projects\obj\Debug\net8.0\c# projects.sourcelink.json

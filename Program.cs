@@ -46,15 +46,15 @@ Console.WriteLine("Car model: "+ carModel+ "plate number: "+ plateNumber + "no o
 
 Console.WriteLine("you drive a "+ carModel +", your plate number is "+ plateNumber +", and you have spent " + Convert.ToString(intHours) + " hours here.");
 
-
+double TotalParkingFee = 500.00D;
 if(intHours == 1){
-    int TotalParkingFee = 500;
+    
     Console.WriteLine($"Your parking ticket is {TotalParkingFee} naira");
 }
 else
 {
-    int TotalParkingFee = 500 + (100 * (intHours - 1));
-    Console.WriteLine($"Your parking ticket is {TotalParkingFee} naira");
+    double TotalParkingFee2 = TotalParkingFee + (100 * (intHours - 1));
+    Console.WriteLine($"Your parking ticket is {TotalParkingFee2} naira");
 
 }
 
