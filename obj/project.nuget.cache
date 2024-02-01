@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "jhN7QkD+dWj6E3iSlt6w8y+qQQhYYRJCxRfsLQvN9FDYmXk1FWKQtR3X2+rZiwIber2zbEzMdkC1h0QXelUCFQ==",
+  "dgSpecHash": "zv5K7XxDKyPxDb+Vt2c34Xbjk41/V0zBGj7hFmLb62laei8ARRmgf7erdCjU1JVRidXwv1HOTiUr7YJFpfXvLw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\USER\\Desktop\\c# projects\\c# projects.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\USER\\Desktop\\Csharp final\\c# projects\\c# projects.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\restsharp\\110.2.1-alpha.0.16\\restsharp.110.2.1-alpha.0.16.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\system.text.json\\7.0.3\\system.text.json.7.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USER\\Desktop\\c# projects\\c# projects.csproj": {}
+    "C:\\Users\\USER\\Desktop\\Csharp final\\c# projects\\c# projects.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USER\\Desktop\\c# projects\\c# projects.csproj": {
+    "C:\\Users\\USER\\Desktop\\Csharp final\\c# projects\\c# projects.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\Desktop\\c# projects\\c# projects.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Desktop\\Csharp final\\c# projects\\c# projects.csproj",
         "projectName": "c# projects",
-        "projectPath": "C:\\Users\\USER\\Desktop\\c# projects\\c# projects.csproj",
+        "projectPath": "C:\\Users\\USER\\Desktop\\Csharp final\\c# projects\\c# projects.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\Desktop\\c# projects\\obj\\",
+        "outputPath": "C:\\Users\\USER\\Desktop\\Csharp final\\c# projects\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -37,6 +37,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "RestSharp": {
+              "target": "Package",
+              "version": "[110.2.1-alpha.0.16, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
